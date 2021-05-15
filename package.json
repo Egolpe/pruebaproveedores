@@ -1,0 +1,14 @@
+{
+  "name": "proveedores",
+  "version": "1.0.0",
+  "description": "prueva proveedores.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enrique Golpe",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright": "^1.11.0"
+  }
+}
